@@ -44,4 +44,4 @@ class Ui_MainWindow(object):
         self.message_input.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Type your message here...", None))
         self.message_button.setText(QCoreApplication.translate("MainWindow", u"Send", None))
     # retranslateUi
-© 2020 GitHub, Inc.
+
